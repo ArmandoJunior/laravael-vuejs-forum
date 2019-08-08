@@ -1,0 +1,1 @@
+<h2>My Forum Vue JS</h2>
